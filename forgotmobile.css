@@ -1,0 +1,259 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* Desktop Styles for Forgot Password*/
+
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+.forgot{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    margin-top: 5%;  
+    margin-bottom: 5%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    
+    
+}
+
+.forgot img{
+   float: right;
+   margin-bottom: 10px;
+   padding: 5px;
+}
+
+.top{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 53px;
+
+letter-spacing: 0.1em;
+    padding-bottom: 20px;
+    color: #E50914;
+}
+
+.text {
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.15px;
+color: #141212;
+padding: 20px;
+margin-top: 10%;
+}
+.label{
+  
+    float: left;
+    margin-left: 25%;
+    
+}
+    
+
+input{
+    width: 50%;
+    border-radius: 5px;
+    border: solid rgb(229, 228, 228) 1px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    background-color:#E50914;
+    border: 0px;
+    color: white;
+    width: 50%;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input :placeholder-shown{
+    color: black;
+    font-size: 8px;
+}
+
+/*Desktop Style for reset password */
+
+.reset{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    margin-top: 2%;  
+    margin-bottom: 5%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+
+.reset img{
+   float: right;
+   margin-bottom: 5px;
+   padding: 5px;
+}
+.top{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 53px;
+
+letter-spacing: 0.1em;
+    padding-bottom: 20px;
+    color: #E50914;
+}
+
+.pre {
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.15px;
+color: #141212;
+padding: 20px;
+margin-top: 10%;
+}
+
+.resetform{
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    
+    
+}
+.resetlabel1{
+  
+    margin-left: -50%;
+    
+}
+.resetlabel2{
+  
+    margin-left: -40%;
+    
+}
+.resetform input{
+    width: 80%;
+    border-radius: 5px;
+    border: solid rgb(229, 228, 228) 1px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    background-color:#E50914;
+    border: 0px;
+    color: white;
+    width: 50%;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input :placeholder-shown{
+    color: black;
+    font-size: 8px;
+}
+
+
+
+/*Desktop Style for OTP password */
+
+.otp{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    margin-top: 5%;  
+    margin-bottom: 5%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+
+.otp img{
+   float: right;
+   margin-bottom: 2px;
+   padding: 5px;
+}
+
+.top{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 53px;
+
+letter-spacing: 0.1em;
+    padding-bottom: 20px;
+    color: #E50914;
+}
+
+.otptext {
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.15px;
+color: #141212;
+padding: 20px;
+margin-top: 10%;
+}
+
+
+.otpform{
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    
+    
+}
+
+.otpform input{
+    width: 5%;
+    border-radius: 5px;
+    border: solid rgb(229, 228, 228) 1px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #D9D2D2;
+    
+}
+
+button{
+    background-color:#E50914;
+    border: 0px;
+    color: white;
+    width: 50%;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input :placeholder-shown{
+    color: black;
+    font-size: 8px;
+}
